@@ -1,0 +1,78 @@
+body {
+    background: #1C1C1C;
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    margin: 64px;
+    font-size: 20px;
+    
+}
+
+#app {
+    padding-top: 115px;
+    padding-left: 52px;
+    padding-right: 52px;
+    background: #1F2937;
+    width: 550px;
+    height: 550px;
+}
+
+#green {
+    color: #4ADF86;
+    margin-top: -23px;
+}
+
+h1 {
+    font-family: "Karla", sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+button {
+    background: #10B981;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 15px;
+    font-size: 16px;
+    letter-spacing: 0.7px;
+    font-weight: 500;
+    margin-top: 60px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #2F3E53;
+    margin: 45px 0px;
+}
+
+#passOne, #passTwo {
+    background: #273549;
+    border: none;
+    border-radius: 6px;
+    width: 47%;
+    height: 39px;
+}
+
+#passwords {
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+#passOne, #passTwo {
+    color: #55F991;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+#footnote {
+    padding-top:10px;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+}
